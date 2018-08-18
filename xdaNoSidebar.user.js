@@ -6,7 +6,7 @@
 // @author       Alistair1231
 // @match        https://forum.xda-developers.com/*
 // @grant        none
-// @license GPL-3.0
+// @license GPL
 // @copyright 2018, Alistair1231 (https://openuserjs.org/users/Alistair1231)
 // @run-at document-idle
 // ==/UserScript==
