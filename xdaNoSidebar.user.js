@@ -6,6 +6,7 @@
 // @author       Alistair1231
 // @match        https://forum.xda-developers.com/*
 // @grant        none
+// @license GPL-3.0-or-later; http://www.gnu.org/licenses/gpl-3.0.txt
 // @copyright 2018, Alistair1231 (https://github.com/Alistair1231/)
 // @run-at document-idle
 // ==/UserScript==
