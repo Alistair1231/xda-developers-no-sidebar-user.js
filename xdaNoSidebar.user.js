@@ -5,8 +5,8 @@
 // @description  Hides the sidebar with jquery
 // @author       Alistair1231
 // @match        https://forum.xda-developers.com/*
-// @grant        unsafeWindow
-// @license GPLv3 - http://www.gnu.org/licenses/gpl-3.0.txt
+// @grant        none
+// @license GPL-3.0
 // @copyright 2018, Alistair1231 (https://openuserjs.org/users/Alistair1231)
 // @run-at document-idle
 // ==/UserScript==
